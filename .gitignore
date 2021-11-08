@@ -1,0 +1,10 @@
+
+.vsconfig
+Library/
+Build/HelloAR.apk
+obj/
+Temp/
+UserSettings/EditorUserSettings.asset
+Assets/ExternalDependencyManager/
+Assets/GoogleARCore/CLI/
+Assets/GoogleARCore/SDK/
